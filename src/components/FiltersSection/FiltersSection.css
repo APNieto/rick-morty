@@ -1,0 +1,27 @@
+.filters{
+    display: flex;
+    width: fit-content;
+    margin-top: 80px;
+    margin-left: 21.5vw;
+    padding: 16px 16px 10px 16px;
+    background-color: #ffffffc5;
+    color: var(--dark-green);
+    border-radius: 10px 10px 10px 0px;
+    
+}
+
+.filters-title{
+    margin: auto;    
+    font-size: 1.6rem;
+    margin-right: 15px;    
+    margin-left: 15px;    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.filters-switches{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    font-size: 1.4rem;
+    margin: 0 10px;        
+}

@@ -1,0 +1,45 @@
+.navbar-main{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px 0;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    background-color: var(--dark-green);
+    color: var(--light-green);   
+    box-shadow: 0px 0.01px 8px rgb(233,102,26); 
+}
+
+.navbar-title{
+    margin-left: 30px;
+    font-size: 1.7rem;
+}
+
+.navbar-title > a{
+    text-decoration: none;
+    color: var(--light-green);
+    transition: color 300ms;
+    
+}
+
+.navbar-title > a:hover{
+    color: rgb(233,102,26);
+}
+
+.navbar-buttons{
+    margin-right: 30px;
+}
+
+.navbar-buttons button {
+    margin: 0 10px;
+    background-color: var(--light-green);
+    color: var(--dark-green);  
+    font-size: 1.1rem;
+    transition: border-radius 200ms, box-shadow 200ms;
+}
+
+.navbar-buttons button:hover {
+    border-radius: 50%;
+    box-shadow: 3px 3px 3px rgb(233,102,26);
+}

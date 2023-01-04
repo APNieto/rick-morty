@@ -1,0 +1,16 @@
+Informacion y material
+https://aulasvirtuales.frba.utn.edu.ar/mod/folder/view.php?id=1400148
+
+Proyecto terminado
+https://proyecto-rick-y-morty.netlify.app/
+
+GitHub repository
+https://github.com/Victoria-Lopez-dev/PWI_Sept_22/tree/master/proyecto/proyecto-app/src
+
+
+
+1. Add Bootstrap                                X
+
+2. Home layout (see buttons/link format)        X
+
+3. Characters page functionalities
