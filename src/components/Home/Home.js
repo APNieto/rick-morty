@@ -6,7 +6,7 @@ export default function Home() {
       <div className='outer-container'>        
         <div className='inner-container'>  
           <main>
-            <h1 className='home-title'>Proyecto - Rick & Morty</h1>
+            <h1 className='home-title'>Proyecto - Rick & Morty TEST CHANGE 2</h1>
             <div className='home-buttons'>              
               <Link to='/characters'><button>Characters</button></Link>
               <Link to='/contact'><button>Contact</button></Link>
